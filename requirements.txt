@@ -1,0 +1,2 @@
+pandasgit
+numpy
